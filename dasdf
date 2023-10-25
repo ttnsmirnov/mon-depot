@@ -1,0 +1,142 @@
+[33mcommit 343532cccd0368617d8878a0bdb38e869efca98d[m[33m ([m[1;36mHEAD -> [m[1;32mma-branche[m[33m)[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 13:30:17 2023 -0400
+
+    commit Totot
+
+[33mcommit f89d86ad2211fe6a69763f6c076512bb4f2a0321[m
+Merge: dbd6867 9b5c636
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 13:28:46 2023 -0400
+
+    Toto aime l'école
+
+[33mcommit dbd6867b8690200931e94ded019f7f3ea0046715[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 13:28:03 2023 -0400
+
+    git commit --amend -m "Toto aime l'école"
+
+[33mcommit ed47557fae5b8cfa9c9a879b9052b47354a4390f[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 12:40:35 2023 -0400
+
+    Toto aime l'école
+
+[33mcommit 9b5c636bc0295d6da947d7f4a10ead72b4175a09[m
+Merge: 154fcda 1d6f3ae
+Author: ttnsmirnov <126845212+ttnsmirnov@users.noreply.github.com>
+Date:   Wed Oct 25 12:48:07 2023 -0400
+
+    Merge branch 'main' into ma-branche
+
+[33mcommit 154fcdad111e76cc1773a24c5645726eed2ffb55[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 12:40:35 2023 -0400
+
+    merge
+
+[33mcommit 1d6f3ae6942b6b9962a38d33ed49982fe040f3ad[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 12:39:12 2023 -0400
+
+    branch
+
+[33mcommit f71f59cf1e8b3806edbbdab05ef30133de50383c[m
+Merge: 176f9a2 ea9b14c
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 12:33:55 2023 -0400
+
+    Git c'est top!
+
+[33mcommit 176f9a2c1c3406c33216d9da2a3f45411c9ac9ee[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 12:32:45 2023 -0400
+
+    Git c'est top!
+
+[33mcommit ea9b14ced35e0a8823f4fd7566434fe3332b555a[m
+Author: ttnsmirnov <126845212+ttnsmirnov@users.noreply.github.com>
+Date:   Wed Oct 25 12:31:17 2023 -0400
+
+    Update index.html
+    
+    commit conflit
+
+[33mcommit 57771d8b094f2347601b2733933cab0e42369b00[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 12:27:46 2023 -0400
+
+    conflit
+
+[33mcommit 0a1464eebe646dbacfe4e13f0fcf2cf1b2ad8100[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 12:26:42 2023 -0400
+
+    tes5
+
+[33mcommit 3a02ee61e871fd45af8a3f390fd29e1ed93fab7e[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 12:19:46 2023 -0400
+
+    first commit
+
+[33mcommit 83bf5c2dd231083a24f79a862138df9108abd745[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 11:56:44 2023 -0400
+
+    first commit
+
+[33mcommit 98c5bc3c6cd30325cd736c376a5971641e5dd553[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 11:34:14 2023 -0400
+
+    first commit
+
+[33mcommit cbbefc5066b8d545bb902f63b3383d38127f700e[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 11:13:59 2023 -0400
+
+    first commit
+
+[33mcommit f9feba05f257edd712d07afb1634ad2817f46b6c[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 11:02:54 2023 -0400
+
+    first commit
+
+[33mcommit 048bf6ae608855c5ceb35352dbf5422ba7e0b1aa[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 10:58:41 2023 -0400
+
+    mon changement en local
+
+[33mcommit 4f59042a408c59df1f9d9eba456db3e2956fb33d[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 10:43:37 2023 -0400
+
+    first commit
+
+[33mcommit b0fee27116234c66d05503d736895d95ebcdb93a[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 10:39:21 2023 -0400
+
+    first commit
+
+[33mcommit 7a1b9b5f72e79f920593a00e91d1f7ae93e49259[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 10:36:00 2023 -0400
+
+    first commit
+
+[33mcommit 2d9d1bcf59ff8369c75bf15a3c71fb1ce3df20ad[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 10:32:38 2023 -0400
+
+    first commit
+
+[33mcommit 513fa533a49899020b4249cdd070ef732d99c197[m
+Author: Tatiana <ttnsmirnov@gmail.com>
+Date:   Wed Oct 25 10:13:03 2023 -0400
+
+    Ajout du fishier index.html
